@@ -1,0 +1,23 @@
+h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #ca861b;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.text1 {
+    color: palevioletred;
+}
+
+.text2 {
+    color: crimson;
+}
+
+.box {}
+
+body img {
+    height: 300px;
+    width: 300px;
+    display: block;
+}
